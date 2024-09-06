@@ -1,6 +1,4 @@
-# Tailwind CSS Documentation
-
-Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation.
+# Tailwind CSS Uber Project
 
 To run the project locally, first install the dependencies:
 
